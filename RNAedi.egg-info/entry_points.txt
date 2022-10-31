@@ -1,0 +1,3 @@
+[console_scripts]
+RNAedi = RNAedi_cli:cli
+

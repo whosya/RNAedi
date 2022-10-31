@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: RNAedi
+Version: 1.1.1
+Summary: Command line tool for rnaediting analysis.
+Home-page: https://github.com/whosya/rnaediting
+Author: Shuaiya Hu
+Author-email: whosy@stu.njau.edu.cn
+License: GNU GPL v3.0
+Platform: UNKNOWN
+Requires-Python: >=3.8
+
+UNKNOWN
+
