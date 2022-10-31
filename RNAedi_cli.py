@@ -13,18 +13,16 @@ from rnaediting._version import __version__
 def cli():
     """
 \b    
-_____ _   _   ___           _ _ 
-| ___ \ \ | | / _ \         | (_)
+ _____ _   _   ___             _ _ 
+| ___ \ \ | | / _ \           | (_)
 | |_/ /  \| |/ /_\ \   ___  __| |_ 
 |    /| . ` ||  _  |  / _ \/ _` | |
 | |\ \| |\  || | | | |  __/ (_| | |
 \_| \_\_| \_/\_| |_/  \___|\__,_|_|
-
- ╭╩══╮╔══════╗╔══════╗╔═══════╗
-[dudu    dududu        dudududududu]
-╰⊙══⊙╯╚◎════◎╝╚◎════◎╝╚◎═════◎╝
 \b
-Welcome to RNAedi!
+ ╭╩══╮╔══════╗╔══════╗╔═══════╗
+[ dududu]   Welcome to RNAedi!  
+╰⊙══⊙╯╚◎════◎╝╚◎════◎╝╚◎═════◎╝
     """
 @cli.command(context_settings={'help_option_names': ['-h', '--help']}, short_help="Generates configuration file.")
 
